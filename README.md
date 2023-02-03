@@ -9,3 +9,6 @@
 * Machine Learning - Supervised Linear regression
 * Machine Learning - Unsupervised - Clustering
 * Sourcing and analysis time series data
+
+** Tableau Dashboard
+https://public.tableau.com/app/profile/michelle.diaz/viz/NWWS/NWWS?publish=yes 
