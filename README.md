@@ -8,4 +8,4 @@
 * Geographic visualiazations using Folium
 * Machine Learning - Supervised Linear regression
 * Machine Learning - Unsupervised - Clustering
-* Sourcing and analysis time series da
+* Sourcing and analysis time series data
