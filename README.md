@@ -1,4 +1,6 @@
 ### National Wastewater Surveillance
+Analyze wasterwater to determine the spread of COVID-19 
+https://public.tableau.com/app/profile/michelle.diaz/viz/NWWS/NWWS?publish=yes 
 
 ### 1. Project Overview 
 
@@ -29,6 +31,4 @@
 * Machine Learning - Supervised Linear regression
 * Machine Learning - Unsupervised - Clustering
 * Sourcing and analysis time series data
-
-** Tableau Dashboard
-https://public.tableau.com/app/profile/michelle.diaz/viz/NWWS/NWWS?publish=yes 
+* Tableau dashboard 
